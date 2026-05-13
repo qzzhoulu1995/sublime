@@ -40,8 +40,7 @@ sublime mac 注册/register/破解
 ### 方式一：脚本（推荐）
 
 ```bash
-git clone https://github.com/yourname/sublime-text-mac-patcher.git
-cd sublime-text-mac-patcher
+git clone https://github.com/qzzhoulu1995/sublime.git
 bash patch_sublime.sh
 ```
 
